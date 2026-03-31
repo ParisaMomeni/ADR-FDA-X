@@ -1,0 +1,8 @@
+venv/
+adr-env/
+__pycache__/
+*.pyc
+.DS_Store
+
+Results/*.csv
+Results/*.pkl

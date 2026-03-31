@@ -1,0 +1,10 @@
+nausea
+vomiting
+diarrhea
+constipation
+decreased appetite
+abdominal pain
+headache
+fatigue
+dyspepsia
+hypoglycemia
