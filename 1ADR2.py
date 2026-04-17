@@ -80,26 +80,39 @@ synonym_map = {
     "sick to my stomach": "nausea",
      "nauseous": "nausea",
     "feel sick to my stomach": "nausea",
+
+    "dizzi": "dizziness",
     "light headed": "dizziness",
     "lightheaded": "dizziness",
     "dizzy": "dizziness",
     "woozy": "dizziness",
+
+   "fatigue": "fatigue",
     "tired": "fatigue",
     "exhausted": "fatigue",
     "wiped out": "fatigue",
     "low energy": "fatigue",
-    "head hurting": "headache",
+
+   "headache": "headache",
+   "head hurting": "headache",
     "migraine": "headache",
-    "head pain": "headache",
-    "throwing up": "vomiting",
+    #"head pain": "headache", lots of fps with pain  #removed after manual analysis
+
+   "vomiting": "vomiting",#added after manual analysis
+   "throwing up": "vomiting",
     "vomited": "vomiting",
     #"puked": "vomiting",
     "upchucked": "vomiting",
     "puked": "vomiting",
     "threw up": "vomiting",
+    "upchucked": "vomiting",
+    "vomit": "vomiting",
+
+    "abdominal pain": "abdominal pain", #added after manual analysis
     "stomach pain": "abdominal pain",
     "cramps": "abdominal pain",
     "belly ache": "abdominal pain",
+
     "diarrhea": "diarrhea",
     "runs": "diarrhea",
     "loose stools": "diarrhea",
@@ -107,15 +120,22 @@ synonym_map = {
     "runny stools": "diarrhea",
     "frequent stools": "diarrhea",
     "messing up my gut": "diarrhea",
+
     "bloated": "bloating",
+
     "heartburn": "acid reflux",
     "indigestion": "acid reflux",
+
     "constipated": "constipation",
+    "constipation": "constipation",
     "backed up": "constipation",
     "can't go": "constipation",
     "backed up": "constipation",
+
     "dry mouth": "xerostomia",
     "mouth dry": "xerostomia",
+    "xerostomia": "xerostomia",
+
     "blurred vision": "vision blurred",
     "can’t see well": "vision blurred"
 }
